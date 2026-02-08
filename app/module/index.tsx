@@ -7,7 +7,12 @@ export default function HomeScreen() {
 
     return (
         <View style={styles.container}>
-            <Text style={styles.title}>Stupid shit</Text>
+            <Text style={styles.title}>Stupid shit1</Text>
+            <Text style={styles.title}>Stupid shit2</Text>
+            <Text style={styles.title}>Stupid shit3</Text>
+            <Text style={styles.title}>Stupid shit4</Text>
+            <Text style={styles.title}>Stupid shit5</Text>
+            <Text style={styles.title}>Stupid shit6</Text>
         </View>
     );
 }
